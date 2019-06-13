@@ -1,0 +1,438 @@
+
+act:
+ant art 
+age:
+ape 
+aid:
+bid kid air 
+air:
+fir sir aid 
+alb:
+
+ant:
+act art 
+ape:
+age 
+arm:
+art 
+art:
+act ant arm 
+ash:
+ask 
+ask:
+ash 
+bad:
+dad pad sad wad bed bid bud bag bar bat bay 
+bag:
+rag big bog bug bad bar bat bay 
+bar:
+car ear jar oar war bad bag bat bay 
+bat:
+cat eat fat hat mat rat bet bit bad bag bar bay 
+bay:
+day hay lay pay ray way boy buy bad bag bar bat 
+bed:
+red bad bid bud bee bet 
+bee:
+fee bed bet 
+bet:
+jet let net pet set bat bit bed bee 
+bid:
+aid kid bad bed bud big bin bit 
+big:
+dig pig bag bog bug bid bin bit 
+bin:
+pin tin win yin bun bid big bit 
+bit:
+git hit bat bet bid big bin 
+bog:
+dog fog hog log bag big bug bow box boy 
+bow:
+cow low row sow bog box boy 
+box:
+fox bog bow boy 
+boy:
+joy soy toy bay buy bog bow box 
+bra:
+era 
+bud:
+dud mud bad bed bid bug bun bus buy 
+bug:
+mug bag big bog bud bun bus buy 
+bun:
+fun gun run sun bin bud bug bus buy 
+bus:
+bud bug bun buy 
+buy:
+guy bay boy bud bug bun bus 
+can:
+fan lan man pan van cap car cat 
+cap:
+gap lap map tap cup can car cat 
+car:
+bar ear jar oar war can cap cat 
+cat:
+bat eat fat hat mat rat cot cut can cap car 
+cob:
+fob job cub cod cot cow 
+cod:
+god rod cob cot cow 
+cot:
+dot hot jot lot pot cat cut cob cod cow 
+cow:
+bow low row sow cob cod cot 
+cry:
+dry try 
+cub:
+hub rub tub cob cup cut 
+cup:
+cap cub cut 
+cut:
+hut nut put cat cot cub cup 
+dad:
+bad pad sad wad dud day 
+day:
+bay hay lay pay ray way dry dad 
+den:
+fen hen men pen dew 
+dew:
+few pew yew den 
+dig:
+big pig dog 
+doe:
+hoe toe due dog dot 
+dog:
+bog fog hog log dig doe dot 
+dot:
+cot hot jot lot pot doe dog 
+dry:
+cry try day 
+dud:
+bud mud dad due 
+due:
+doe dud 
+ear:
+bar car jar oar war eat 
+eat:
+bat cat fat hat mat rat ear 
+eel:
+
+egg:
+
+elk:
+elm 
+elm:
+elk 
+emu:
+
+end:
+
+era:
+bra 
+ese:
+use eye 
+eye:
+lye ese 
+fan:
+can lan man pan van fen fun fat fax 
+fat:
+bat cat eat hat mat rat fan fax 
+fax:
+tax wax fix fox fan fat 
+fee:
+bee fen few 
+fen:
+den hen men pen fan fun fee few 
+few:
+dew pew yew fee fen 
+fir:
+air sir fur fix 
+fix:
+mix fax fox fir 
+flu:
+fly 
+fly:
+flu 
+fob:
+cob job fog fox 
+fog:
+bog dog hog log fob fox 
+fox:
+box fax fix fob fog 
+fun:
+bun gun run sun fan fen fur 
+fur:
+fir fun 
+gap:
+cap lap map tap gas 
+gas:
+gap 
+gem:
+gum gym 
+git:
+bit hit 
+god:
+cod rod 
+gum:
+rum gem gym gun guy 
+gun:
+bun fun run sun gum guy 
+guy:
+buy gum gun 
+gym:
+gem gum 
+hat:
+bat cat eat fat mat rat hit hot hut hay 
+hay:
+bay day lay pay ray way hat 
+hen:
+den fen men pen 
+hip:
+lip rip tip hit 
+hit:
+bit git hat hot hut hip 
+hoe:
+doe toe hog hot 
+hog:
+bog dog fog log hoe hot 
+hot:
+cot dot jot lot pot hat hit hut hoe hog 
+hub:
+cub rub tub hut 
+hut:
+cut nut put hat hit hot hub 
+ice:
+
+ink:
+inn 
+inn:
+ink 
+jam:
+ram tam yam jar jaw 
+jar:
+bar car ear oar war jam jaw 
+jaw:
+law paw raw saw jam jar 
+jet:
+bet let net pet set jot 
+job:
+cob fob jot joy 
+jot:
+cot dot hot lot pot jet job joy 
+joy:
+boy soy toy job jot 
+key:
+
+kid:
+aid bid 
+lab:
+lan lap law lay 
+lan:
+can fan man pan van lab lap law lay 
+lap:
+cap gap map tap lip lab lan law lay 
+law:
+jaw paw raw saw low lab lan lap lay 
+lay:
+bay day hay pay ray way lab lan lap law 
+leg:
+log lei let 
+lei:
+leg let 
+let:
+bet jet net pet set lot leg lei 
+lie:
+pie tie lye lip 
+lip:
+hip rip tip lap lie 
+log:
+bog dog fog hog leg lot low 
+lot:
+cot dot hot jot pot let log low 
+low:
+bow cow row sow law log lot 
+lye:
+eye lie 
+man:
+can fan lan pan van men map mat 
+map:
+cap gap lap tap mop man mat 
+mat:
+bat cat eat fat hat rat man map 
+men:
+den fen hen pen man 
+mix:
+fix 
+mom:
+tom mop 
+mop:
+pop top map mom 
+mud:
+bud dud mug 
+mug:
+bug mud 
+net:
+bet jet let pet set nut 
+nut:
+cut hut put net 
+oak:
+yak oar 
+oar:
+bar car ear jar war oak 
+obi:
+
+oil:
+owl 
+one:
+
+ott:
+
+owl:
+oil 
+pad:
+bad dad sad wad pan paw pay 
+pan:
+can fan lan man van pen pin pad paw pay 
+paw:
+jaw law raw saw pew pad pan pay 
+pay:
+bay day hay lay ray way pad pan paw 
+pea:
+sea tea pha pen pet pew 
+pen:
+den fen hen men pan pin pea pet pew 
+pet:
+bet jet let net set pot put pea pen pew 
+pew:
+dew few yew paw pea pen pet 
+pha:
+pea 
+pie:
+lie tie pig pin 
+pig:
+big dig pie pin 
+pin:
+bin tin win yin pan pen pie pig 
+pop:
+mop top pot 
+pot:
+cot dot hot jot lot pet put pop 
+put:
+cut hut nut pet pot 
+pvc:
+
+rag:
+bag ram rat raw ray 
+ram:
+jam tam yam rim rum rag rat raw ray 
+rat:
+bat cat eat fat hat mat rag ram raw ray 
+raw:
+jaw law paw saw row rag ram rat ray 
+ray:
+bay day hay lay pay way rag ram rat raw 
+red:
+bed rod 
+rim:
+ram rum rip 
+rip:
+hip lip tip rim 
+rod:
+cod god red row 
+row:
+bow cow low sow raw rod 
+rub:
+cub hub tub rum run 
+rum:
+gum ram rim rub run 
+run:
+bun fun gun sun rub rum 
+sad:
+bad dad pad wad saw 
+saw:
+jaw law paw raw sow sad 
+sea:
+pea tea set sex 
+set:
+bet jet let net pet sea sex 
+sex:
+sea set 
+she:
+
+sir:
+air fir 
+sky:
+soy spy 
+son:
+ton sun sow soy 
+sow:
+bow cow low row saw son soy 
+soy:
+boy joy toy sky spy son sow 
+spy:
+sky soy 
+sun:
+bun fun gun run son 
+SUV:
+
+tam:
+jam ram yam tom tap tax 
+tap:
+cap gap lap map tip top tam tax 
+tax:
+fax wax tam tap 
+tea:
+pea sea 
+tic:
+tie tin tip 
+tie:
+lie pie toe tic tin tip 
+tin:
+bin pin win yin ton tic tie tip 
+tip:
+hip lip rip tap top tic tie tin 
+toe:
+doe hoe tie tom ton top toy 
+tom:
+mom tam toe ton top toy 
+ton:
+son tin toe tom top toy 
+top:
+mop pop tap tip toe tom ton toy 
+toy:
+boy joy soy try toe tom ton top 
+try:
+cry dry toy 
+tub:
+cub hub rub 
+two:
+
+urn:
+
+use:
+ese 
+van:
+can fan lan man pan 
+wad:
+bad dad pad sad war wax way 
+war:
+bar car ear jar oar wad wax way 
+wax:
+fax tax wad war way 
+way:
+bay day hay lay pay ray wad war wax 
+web:
+
+win:
+bin pin tin yin 
+yak:
+oak yam 
+yam:
+jam ram tam yak 
+yew:
+dew few pew 
+yin:
+bin pin tin win 
+you:
+
+zoo:

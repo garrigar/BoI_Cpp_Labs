@@ -1,0 +1,1245 @@
+
+acid:
+
+alto:
+
+apse:
+
+arch:
+
+area:
+
+army:
+
+atom:
+
+aunt:
+hunt 
+babe:
+bake base baby 
+baby:
+babe 
+back:
+lack pack rack sack bank 
+bail:
+fail hail jail mail nail pail rail sail tail ball bait 
+bait:
+wait bail 
+bake:
+cake lake make rake wake bike babe base 
+ball:
+call fall hall mall wall bell bill bull bail 
+band:
+hand land sand bend bank 
+bank:
+rank tank back band 
+barn:
+yarn burn 
+base:
+case ease vase babe bake bass 
+bass:
+mass pass boss base 
+bath:
+math path 
+bead:
+dead head lead read bend beak beam bean bear beat 
+beak:
+peak bead beam bean bear beat 
+beam:
+team bead beak bean bear beat 
+bean:
+bead beak beam bear beat 
+bear:
+dear fear gear pear rear tear wear year boar beer bead beak beam bean beat 
+beat:
+heat meat neat seat boat beet belt bead beak beam bean bear 
+beef:
+reef beer beet 
+beer:
+deer peer bear beef beet 
+beet:
+feet meet beat belt beef beer 
+bell:
+cell hell sell tell well ball bill bull belt 
+belt:
+pelt bolt beat beet bell 
+bend:
+band bead 
+bike:
+pike bake bite 
+bill:
+dill fill hill kill sill till will ball bell bull 
+bird:
+
+bite:
+kite site bike 
+blow:
+flow plow brow 
+blue:
+clue glue 
+boar:
+bear boat 
+boat:
+coat goat moat beat bolt boot boar 
+body:
+
+bolt:
+colt belt boat boot 
+bomb:
+comb 
+bone:
+cone tone zone bore 
+book:
+cook hook look boot 
+boot:
+foot root soot toot boat bolt book 
+bore:
+bone 
+boss:
+loss bass 
+bowl:
+fowl 
+brow:
+crow prow blow 
+bulb:
+bull 
+bull:
+full pull ball bell bill bulb 
+burn:
+turn barn 
+bush:
+push rush bust 
+bust:
+dust bush 
+cafe:
+safe cake cane cape care case cave 
+cake:
+bake lake make rake wake coke cafe cane cape care case cave 
+calf:
+half call calm 
+call:
+ball fall hall mall wall cell calf calm 
+calm:
+palm calf call 
+camp:
+lamp carp 
+cane:
+vane cone cafe cake cape care case cave 
+cape:
+cope cafe cake cane care case cave 
+card:
+pard tard yard cord care carp cart 
+care:
+dare mare cafe cake cane cape case cave card carp cart 
+carp:
+harp camp card care cart 
+cart:
+dart part cast card care carp 
+case:
+base ease vase cafe cake cane cape care cave cash cast 
+cash:
+dash sash wash case cast 
+cast:
+east past vast cost cyst cart case cash 
+cave:
+eave save wave cafe cake cane cape care case 
+cell:
+bell hell sell tell well call 
+cent:
+rent tent 
+chap:
+chip chop 
+chef:
+clef 
+chin:
+shin coin chip 
+chip:
+ship whip clip chap chop chin 
+chop:
+shop crop chap chip 
+chub:
+club chug 
+chug:
+chub 
+city:
+
+clam:
+
+clef:
+chef 
+clip:
+slip chip 
+club:
+chub clue 
+clue:
+blue glue club 
+coal:
+goal coil coat 
+coat:
+boat goat moat colt cost coal 
+code:
+mode node coke cone cope 
+coil:
+soil coal coin 
+coin:
+join chin corn coil 
+coke:
+joke yoke cake code cone cope 
+cold:
+fold gold hold cord colt 
+colt:
+bolt coat cost cold 
+comb:
+bomb 
+cone:
+bone tone zone cane code coke cope 
+cook:
+book hook look cork 
+cope:
+hope rope cape code coke cone copy 
+copy:
+cope 
+cord:
+word card cold cork corn 
+cork:
+fork work cook cord corn 
+corn:
+horn coin cord cork 
+cost:
+host most post cast cyst coat colt 
+crab:
+grab crib craw 
+craw:
+draw crew crow crab 
+crew:
+craw crow 
+crib:
+crab 
+crop:
+drop chop crow 
+crow:
+brow prow craw crew crop 
+curl:
+
+cyst:
+cast cost 
+dame:
+fame game name dime dare date 
+dare:
+care mare dame date dark dart 
+dark:
+lark mark park dare dart 
+dart:
+cart part dirt dare dark 
+dash:
+cash sash wash dish 
+data:
+date 
+date:
+gate hate mate rate dame dare data 
+dead:
+bead head lead read deal dear 
+deal:
+meal seal veal dead dear 
+dear:
+bear fear gear pear rear tear wear year deer dead deal 
+debt:
+
+deck:
+neck dock duck desk 
+deep:
+jeep keep deer 
+deer:
+beer peer dear deep 
+desk:
+disk deck 
+dhow:
+show 
+diet:
+dirt 
+dill:
+bill fill hill kill sill till will doll 
+dime:
+mime time dame 
+dirt:
+dart diet 
+dish:
+fish wish dash disk 
+disk:
+risk desk dish 
+dock:
+lock rock sock deck duck 
+doll:
+roll dill 
+door:
+
+dory:
+
+drag:
+drug draw 
+draw:
+craw drag 
+drop:
+crop 
+drug:
+drag drum 
+drum:
+drug 
+duck:
+luck suck deck dock 
+dump:
+jump pump 
+dust:
+bust 
+duty:
+
+ease:
+base case vase eave east 
+east:
+cast past vast ease 
+eave:
+cave save wave ease 
+eddy:
+
+edge:
+
+envy:
+
+epee:
+
+exam:
+
+exit:
+
+face:
+lace pace race fame fact 
+fact:
+face 
+fail:
+bail hail jail mail nail pail rail sail tail fall 
+fall:
+ball call hall mall wall fill full fail 
+fame:
+dame game name face 
+fang:
+hang 
+farm:
+harm form 
+fawn:
+lawn 
+fear:
+bear dear gear pear rear tear wear year 
+feed:
+need seed weed feel feet 
+feel:
+heel fuel feed feet 
+feet:
+beet meet feed feel 
+file:
+mile pile tile fine fire fill film 
+fill:
+bill dill hill kill sill till will fall full file film 
+film:
+file fill 
+find:
+kind mind wind fine 
+fine:
+line mine pine wine file fire find 
+fire:
+hire tire wire file fine 
+fish:
+dish wish 
+flag:
+flat flax 
+flat:
+flag flax 
+flax:
+flag flat 
+flow:
+blow plow 
+foam:
+form 
+fold:
+cold gold hold food 
+font:
+foot fort 
+food:
+good hood mood wood fold foot 
+foot:
+boot root soot toot font fort food 
+fork:
+cork work form fort 
+form:
+worm farm foam fork fort 
+fort:
+port sort font foot fork form 
+fowl:
+bowl 
+frog:
+
+fuel:
+feel full 
+full:
+bull pull fall fill fuel 
+gain:
+main pain rain galn 
+gale:
+kale male sale tale game gate galn 
+galn:
+gain gale 
+game:
+dame fame name gale gate 
+garb:
+
+gate:
+date hate mate rate gale game 
+gear:
+bear dear fear pear rear tear wear year 
+gene:
+
+gift:
+lift 
+girl:
+
+give:
+hive 
+glad:
+
+glen:
+
+glue:
+blue clue glut 
+glut:
+glue 
+goal:
+coal goat 
+goat:
+boat coat moat goal 
+gold:
+cold fold hold good golf 
+golf:
+wolf gold 
+gong:
+long song 
+good:
+food hood mood wood gold 
+gown:
+town 
+grab:
+crab gram gray 
+gram:
+tram grab gray 
+gray:
+tray grey grab gram 
+grey:
+gray 
+grip:
+trip grit 
+grit:
+grip 
+gyro:
+
+hail:
+bail fail jail mail nail pail rail sail tail hall hair 
+hair:
+pair hail 
+half:
+calf hall 
+hall:
+ball call fall mall wall hell hill hail half 
+hand:
+band land sand hang 
+hang:
+fang hand 
+harm:
+farm harp 
+harp:
+carp harm 
+hate:
+date gate mate rate 
+hawk:
+
+head:
+bead dead lead read heat 
+heat:
+beat meat neat seat head 
+heel:
+feel hell 
+hell:
+bell cell sell tell well hall hill heel helo help 
+helo:
+hell help 
+help:
+hemp hell helo 
+hemp:
+temp help 
+herb:
+
+hide:
+ride side hire hive 
+high:
+
+hill:
+bill dill fill kill sill till will hall hell 
+hire:
+fire tire wire hide hive 
+hive:
+give hide hire 
+hold:
+cold fold gold hood hole 
+hole:
+mole pole role home hope hose hold 
+home:
+hole hope hose 
+hood:
+food good mood wood hold hoof hook 
+hoof:
+poof roof hood hook 
+hook:
+book cook look hood hoof 
+hope:
+cope rope hole home hose hops 
+hops:
+hope 
+horn:
+corn 
+hose:
+nose rose hole home hope host 
+host:
+cost most post hose 
+hour:
+tour 
+hunt:
+aunt hurt 
+hurt:
+yurt hunt 
+icon:
+iron 
+idea:
+
+inch:
+
+iris:
+
+iron:
+icon 
+item:
+stem 
+jail:
+bail fail hail mail nail pail rail sail tail 
+jeep:
+deep keep 
+jeff:
+
+joey:
+
+join:
+coin 
+joke:
+coke yoke 
+judo:
+
+jump:
+dump pump 
+junk:
+
+jury:
+
+jute:
+lute 
+kale:
+gale male sale tale 
+keep:
+deep jeep 
+kick:
+pick sick 
+kill:
+bill dill fill hill sill till will kilt 
+kilt:
+kill 
+kind:
+find mind wind king 
+king:
+ping ring sing wing kind 
+kiss:
+miss piss 
+kite:
+bite site 
+knee:
+
+knot:
+
+lace:
+face pace race lake lack 
+lack:
+back pack rack sack lock luck lark lace 
+lady:
+
+lake:
+bake cake make rake wake lace 
+lamb:
+lamp 
+lamp:
+camp lamb 
+land:
+band hand sand 
+lark:
+dark mark park lack 
+lava:
+
+lawn:
+fawn 
+lead:
+bead dead head read load leaf 
+leaf:
+loaf lead 
+leek:
+week 
+lier:
+pier 
+life:
+wife line lift 
+lift:
+gift loft list life 
+lily:
+
+limo:
+
+line:
+fine mine pine wine life link 
+link:
+pink sink line 
+lion:
+
+lisa:
+list 
+list:
+mist lift lisa 
+load:
+road toad lead loaf loan 
+loaf:
+leaf load loan 
+loan:
+load loaf 
+lock:
+dock rock sock lack luck look 
+loft:
+soft lift lout 
+long:
+gong song lung 
+look:
+book cook hook lock 
+loss:
+boss 
+lout:
+loft 
+love:
+move 
+luck:
+duck suck lack lock 
+lung:
+long 
+lute:
+jute 
+lynx:
+
+lyre:
+
+maid:
+mail main 
+mail:
+bail fail hail jail nail pail rail sail tail mall maid main 
+main:
+gain pain rain maid mail 
+make:
+bake cake lake rake wake male mare mate 
+male:
+gale kale sale tale mile mole mule make mare mate mall 
+mall:
+ball call fall hall wall mail male 
+manx:
+many 
+many:
+manx 
+mare:
+care dare make male mate mark 
+mark:
+dark lark park mask mare 
+mask:
+task mark mass 
+mass:
+bass pass mess miss mask 
+mate:
+date gate hate rate make male mare math 
+math:
+bath path moth mate 
+meal:
+deal seal veal meat 
+meat:
+beat heat neat seat moat meet meal 
+meet:
+beet feet meat 
+menu:
+
+mess:
+mass miss 
+mice:
+rice mile mime mine 
+midi:
+mini 
+mile:
+file pile tile male mole mule mice mime mine milk 
+milk:
+silk mile 
+mime:
+dime time mice mile mine 
+mind:
+find kind wind mine mini mint 
+mine:
+fine line pine wine mice mile mime mind mini mint 
+mini:
+midi mind mine mint 
+mint:
+pint mist mind mine mini 
+miss:
+kiss piss mass mess mist 
+mist:
+list most mint miss 
+moat:
+boat coat goat meat most 
+mode:
+code node mole move 
+mole:
+hole pole role male mile mule mode move 
+mood:
+food good hood wood moon 
+moon:
+mood 
+most:
+cost host post mist moat 
+moth:
+math 
+move:
+love mode mole 
+mule:
+rule male mile mole 
+mutt:
+
+nail:
+bail fail hail jail mail pail rail sail tail 
+name:
+dame fame game 
+neat:
+beat heat meat seat nest 
+neck:
+deck 
+need:
+feed seed weed 
+neon:
+
+nest:
+pest rest test vest west neat 
+news:
+
+node:
+code mode nose note 
+nose:
+hose rose node note 
+note:
+tote node nose 
+oboe:
+
+okra:
+
+open:
+oven oxen 
+oval:
+
+oven:
+open oxen 
+oxen:
+open oven 
+pace:
+face lace race page pack 
+pack:
+back lack rack sack pick park pace 
+page:
+rage sage pace 
+pail:
+bail fail hail jail mail nail rail sail tail pain pair 
+pain:
+gain main rain pail pair 
+pair:
+hair pail pain 
+palm:
+calm 
+pard:
+card tard yard park part 
+park:
+dark lark mark pack pard part 
+part:
+cart dart port past pard park 
+pass:
+bass mass piss past 
+past:
+cast east vast pest post part pass 
+path:
+bath math pith 
+peak:
+beak pear 
+pear:
+bear dear fear gear rear tear wear year peer peak 
+peen:
+teen peer 
+peer:
+beer deer pier pear peen 
+pelt:
+belt pest 
+perp:
+
+pest:
+nest rest test vest west past post pelt 
+pick:
+kick sick pack pink 
+pier:
+lier peer 
+pike:
+bike pile pine pipe 
+pile:
+file mile tile pole pike pine pipe 
+pimp:
+pump 
+pine:
+fine line mine wine pike pile pipe ping pink pint 
+ping:
+king ring sing wing pine pink pint 
+pink:
+link sink pick pine ping pint 
+pint:
+mint pine ping pink 
+pipe:
+pike pile pine 
+piss:
+kiss miss pass 
+pith:
+path 
+plan:
+play 
+play:
+plan 
+plot:
+plow 
+plow:
+blow flow prow plot 
+poem:
+poet 
+poet:
+port post poem 
+pole:
+hole mole role pile polo 
+polo:
+pole 
+pond:
+pony 
+pony:
+pond 
+poof:
+hoof roof pool 
+pool:
+tool wool poof 
+port:
+fort sort part poet post 
+post:
+cost host most past pest poet port 
+prow:
+brow crow plow 
+pull:
+bull full 
+puma:
+pupa pump 
+pump:
+dump jump pimp puma 
+pupa:
+puma 
+push:
+bush rush 
+quit:
+suit 
+race:
+face lace pace rice rage rake rate rack 
+rack:
+back lack pack sack rock rank race 
+raft:
+
+rage:
+page sage race rake rate 
+rail:
+bail fail hail jail mail nail pail sail tail rain 
+rain:
+gain main pain ruin rail 
+rake:
+bake cake lake make wake race rage rate 
+rank:
+bank tank rack 
+rate:
+date gate hate mate race rage rake 
+read:
+bead dead head lead road rear 
+rear:
+bear dear fear gear pear tear wear year read 
+reef:
+beef 
+rent:
+cent tent rest 
+rest:
+nest pest test vest west rent 
+rice:
+mice race ride rise rich 
+rich:
+rice 
+ride:
+hide side rice rise 
+ring:
+king ping sing wing 
+rise:
+vise rose rice ride risk 
+risk:
+disk rise 
+road:
+load toad read 
+robe:
+role rope rose 
+rock:
+dock lock sock rack 
+role:
+hole mole pole rule robe rope rose roll 
+roll:
+doll role 
+roof:
+hoof poof room root 
+room:
+roof root 
+root:
+boot foot soot toot roof room 
+rope:
+cope hope robe role rose 
+rose:
+hose nose rise robe role rope 
+ruin:
+rain 
+rule:
+mule role 
+rush:
+bush push ruth 
+ruth:
+rush 
+sack:
+back lack pack rack sick sock suck 
+safe:
+cafe sage sale save 
+sage:
+page rage safe sale save 
+sail:
+bail fail hail jail mail nail pail rail tail soil 
+sale:
+gale kale male tale safe sage save salt 
+salt:
+sale 
+sand:
+band hand land 
+sari:
+
+sash:
+cash dash wash 
+save:
+cave eave wave safe sage sale 
+scow:
+show snow 
+seal:
+deal meal veal sell seat 
+seat:
+beat heat meat neat seal 
+seed:
+feed need weed shed sled 
+self:
+sell 
+sell:
+bell cell hell tell well sill seal self 
+shed:
+seed sled 
+shin:
+chin skin ship 
+ship:
+chip whip slip shop shin 
+shoe:
+shop shot show 
+shop:
+chop stop ship shoe shot show 
+shot:
+soot spot shoe shop show 
+show:
+dhow scow snow shoe shop shot 
+sick:
+kick pick sack sock suck silk sink 
+side:
+hide ride site size 
+sign:
+
+silk:
+milk sick sink sill silo 
+sill:
+bill dill fill hill kill till will sell silk silo 
+silo:
+silk sill 
+sing:
+king ping ring wing song sink 
+sink:
+link pink sick silk sing 
+site:
+bite kite side size 
+size:
+side site 
+skin:
+shin 
+sled:
+seed shed 
+slip:
+clip ship 
+smog:
+
+snob:
+snow 
+snow:
+scow show snob 
+soap:
+soup 
+sock:
+dock lock rock sack sick suck 
+soda:
+sofa 
+sofa:
+soda soft 
+soft:
+loft soot sort sofa 
+soil:
+coil sail 
+song:
+gong long sing 
+soot:
+boot foot root toot shot spot soft sort 
+sort:
+fort port soft soot 
+soup:
+soap 
+spot:
+shot soot 
+spur:
+
+stag:
+star stay 
+star:
+stag stay 
+stay:
+stag star 
+stem:
+item step stew 
+step:
+stop stem stew 
+stew:
+stem step 
+stop:
+shop step 
+stud:
+
+suck:
+duck luck sack sick sock 
+suit:
+quit 
+swan:
+
+swim:
+
+tail:
+bail fail hail jail mail nail pail rail sail 
+tale:
+gale kale male sale tile talk 
+talk:
+walk tank task tale 
+tank:
+bank rank talk task 
+tard:
+card pard yard 
+task:
+mask talk tank 
+taxi:
+
+team:
+beam tram term tear 
+tear:
+bear dear fear gear pear rear wear year team 
+teen:
+peen 
+tell:
+bell cell hell sell well till 
+temp:
+hemp 
+tent:
+cent rent test text 
+term:
+team 
+test:
+nest pest rest vest west tent text 
+text:
+tent test 
+thaw:
+
+tile:
+file mile pile tale time tire till 
+till:
+bill dill fill hill kill sill will tell tile 
+time:
+dime mime tile tire 
+tire:
+fire hire wire tile time 
+toad:
+load road 
+toga:
+yoga togs 
+togs:
+toga 
+tone:
+bone cone zone tune tote 
+tool:
+pool wool toot 
+toot:
+boot foot root soot tool 
+tote:
+note tone 
+tour:
+hour 
+town:
+gown 
+tram:
+gram team trim tray 
+tray:
+gray tram 
+tree:
+
+trim:
+tram trip 
+trip:
+grip trim 
+tuba:
+tuna tube 
+tube:
+tune tuba 
+tuna:
+tuba tune 
+tune:
+tone tube tuna 
+turn:
+burn 
+tutu:
+
+twig:
+
+type:
+
+unit:
+
+user:
+
+vane:
+cane vase 
+vase:
+base case ease vise vane vast 
+vast:
+cast east past vest vase 
+veal:
+deal meal seal veil 
+veil:
+veal vein 
+vein:
+veil 
+vest:
+nest pest rest test west vast 
+vibe:
+vise 
+view:
+
+vise:
+rise vase vibe 
+wait:
+bait 
+wake:
+bake cake lake make rake wave 
+walk:
+talk wall 
+wall:
+ball call fall hall mall well will walk 
+wash:
+cash dash sash wish wasp 
+wasp:
+wash 
+wave:
+cave eave save wake 
+wear:
+bear dear fear gear pear rear tear year 
+weed:
+feed need seed week 
+week:
+leek weed 
+well:
+bell cell hell sell tell wall will 
+west:
+nest pest rest test vest 
+whip:
+chip ship 
+wife:
+life wine wire 
+will:
+bill dill fill hill kill sill till wall well 
+wind:
+find kind mind wine wing 
+wine:
+fine line mine pine wife wire wind wing 
+wing:
+king ping ring sing wind wine 
+wire:
+fire hire tire wife wine 
+wish:
+dish fish wash 
+wolf:
+golf 
+wood:
+food good hood mood word wool 
+wool:
+pool tool wood 
+word:
+cord wood work worm 
+work:
+cork fork word worm 
+worm:
+form word work 
+wrap:
+
+wren:
+
+yard:
+card pard tard yarn 
+yarn:
+barn yard 
+yawl:
+
+year:
+bear dear fear gear pear rear tear wear 
+yoga:
+toga 
+yoke:
+coke joke 
+yurt:
+hurt 
+zinc:
+
+zone:
+bone cone tone 
